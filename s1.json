@@ -1,0 +1,7 @@
+{
+  "prompt": "A single, haunting composition: hundreds of delicate, translucent speech bubbles and phonetic symbols from diverse writing systems floating upward like fading echoes or dying embers from a dark, textured earthly base. The bubbles gradually dissolve into silence as they rise — becoming sparser, more fragmented, and eventually vanishing into a vast, quiet void at the top. Subtle human silhouettes of diverse global figures in profile, mouths open as if speaking, are faintly integrated into the lower layer, their forms merging into the fading elements. Muted earth tones shifting to cool, silent grays and deep voids — evoking mourning and irreversible quiet. Emotional visual metaphor of voices rising then vanishing, conveying the weight of cultural loss and the hush of disappearing worlds. Highly detailed, cinematic, ethereal atmosphere, strong negative space at the top, no text, no labels, no charts, no legends, single frame, magazine-cover quality.",
+  "model": "Grok Imagine (xAI)",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger / Ethnologue Global Language Status Data",
+  "dataset_url": "https://unesdoc.unesco.org/ark:/48223/pf0000187026 and https://www.ethnologue.com/insights/how-many-languages-endangered/ (approx. 40-44% of ~7,000 languages endangered)",
+  "insight": "Approximately 40-44% of the world's ~7,000 languages are endangered or extinct, with one disappearing roughly every two weeks, causing profound irreversible loss of cultural knowledge and human diversity."
+}
